@@ -9,7 +9,7 @@
 
 ## Deskripsi
 
-## Teknologik/Framework
+## Teknologi/Framework
 
 ## Repository
 GitHub
