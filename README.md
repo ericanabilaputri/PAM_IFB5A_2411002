@@ -1,2 +1,16 @@
-# PAM_IFB5A_2411002
-Repository proyek Pemrograman Aplikasi Bergerak kelas IFB5A untuk menyimpan source code, dokumentasi, dan perkembangan proyek
+# Pemrograman Aplikasi Bergerak
+
+**Nama:** Erica Nabila Putri
+**Nim:** 2411002
+**Kelas:** IFB5A
+**Mata Kuliah:** Pemrograman Aplikasi Bergerak
+
+## Judul Proyek
+
+## Deskripsi
+
+## Teknologik/Framework
+
+## Repository
+GitHub
+
